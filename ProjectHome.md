@@ -1,0 +1,3 @@
+AppEngine Cart is an open source JAVA/[Slim3](https://sites.google.com/site/slim3appengine/) based shopping cart system that runs in [Google App Engine](http://code.google.com/appengine/).  It is a stand alone application that will allow Internet Merchants to get started selling their products within minutes, without the need or worry of expensive server setup or costs.
+
+There is no release available, however development has started and hopefully a first revision will be available early next year.
